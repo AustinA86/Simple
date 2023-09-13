@@ -1,3 +1,3 @@
 <?php
-echo "GPT cs";
+echo "GPT cs 5th sem";
 ?>
